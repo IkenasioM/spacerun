@@ -1,8 +1,9 @@
-﻿<Properties StartupItem="spacerun.csproj">
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Script\loadScene.cs">
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/OnclickFunction.cs">
     <Files>
-      <File FileName="Assets\Script\loadScene.cs" Line="17" Column="2" />
+      <File FileName="Assets/Script/TapControle.cs" Line="16" Column="3" />
+      <File FileName="Assets/OnclickFunction.cs" Line="53" Column="44" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
